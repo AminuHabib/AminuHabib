@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AminuHabib
 - 👀 I’m interested in Data Engineering, Cloud Solutions Architect, DevOps and Machine Learning.
-- 🌱 A graduate of the Data ScienceTech Institute, proficient in Python, ETL/ELT, AWS, Azure, SQL, Hadoop, and Spark Ecosystem.
+- 🌱 Junior Big Data Engineer and Cloud Solutions Architect, a graduate of the Data ScienceTech Institute, proficient in Python, ETL/ELT, AWS, Azure, SQL, Hadoop, and Spark Ecosystem.
 - 💞️ I’m looking to collaborate on projects in my area of interests.
 - 📫 How to reach me habib.aminu@edu.dsti.institute
 
